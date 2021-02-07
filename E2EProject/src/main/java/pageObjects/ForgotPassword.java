@@ -11,6 +11,7 @@ public class ForgotPassword {
 	
 	By email=By.cssSelector("[id='user_email']");
 	By sendMeInstructions=By.cssSelector("[type='submit']");
+	By sendMeInstructions=By.cssSelector("[type='submit']");
 	
 	
 	
