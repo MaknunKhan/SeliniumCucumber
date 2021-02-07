@@ -13,6 +13,11 @@ public class LoginPage {
 	By password=By.cssSelector("[type='password']");
 	By login=By.cssSelector("[value='Log In']");
 	By forgotPassword = By.cssSelector("[href*='password/new']");
+	By email=By.cssSelector("[id='user_email']");
+	By password=By.cssSelector("[type='password']");
+	By login=By.cssSelector("[value='Log In']");
+	By forgotPassword = By.cssSelector("[href*='password/new']");
+	
 	
 	
 	

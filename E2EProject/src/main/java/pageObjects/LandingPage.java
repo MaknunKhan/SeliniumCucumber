@@ -12,6 +12,9 @@ public class LandingPage {
 	By signin=By.cssSelector("a[href*='sign_in']");
 	By title=By.cssSelector(".text-center>h2");
 	By NavBar=By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
+	By signin=By.cssSelector("a[href*='sign_in']");
+	By title=By.cssSelector(".text-center>h2");
+	By NavBar=By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
 	
 	
 	
